@@ -7,3 +7,4 @@ ketvirta eilute
 kefyras 
 bulve
 
+pomidoras
